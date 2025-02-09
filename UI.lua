@@ -1,4 +1,8 @@
-HyperAlerts = HyperAlerts or {}
+HyperAlerts = {
+    name = 'HyperAlerts',
+    pseudoEffects = {},
+    effectPreview = false,
+}
 local HA = HyperAlerts
 local LH = LibHyper
 local SM = SCENE_MANAGER
