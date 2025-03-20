@@ -30,11 +30,6 @@ local function registerPseudoEffectEvent(abilityID, data)
 end
 
 HyperAlerts.pseudoEffectData = {
-    --ASYLUM SANCTORIUM
-    [98356] = {duration = 1.1}, --Poison AoE
-
-    --ROCKGROVE
-    [152515] = {duration = 5}, --Melee Trash Poison AoE
     [150002] = {duration = 5}, --Abo Slam AoE
 }
 
