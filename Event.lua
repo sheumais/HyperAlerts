@@ -30,7 +30,7 @@ local function registerPseudoEffectEvent(abilityID, data)
 end
 
 HyperAlerts.pseudoEffectData = {
-    [150002] = {duration = 5}, --Abo Slam AoE
+    [150002] = {duration = 2.5}, --Abo Slam AoE
 }
 
 function HyperAlerts.RegisterPseudoEffectEvents()
